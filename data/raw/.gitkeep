@@ -1,0 +1,13 @@
+# Raw Data
+
+This directory contains the original, immutable data files.
+
+## Guidelines:
+- Never modify files in this directory
+- Document data sources and collection methods
+- Use descriptive filenames with dates if applicable
+
+## Data Sources:
+- Add your data source information here
+- Include URLs, APIs, or database connections
+- Note any access requirements or credentials needed

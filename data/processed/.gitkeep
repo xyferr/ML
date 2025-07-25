@@ -1,0 +1,13 @@
+# Processed Data
+
+This directory contains cleaned and preprocessed data files.
+
+## Guidelines:
+- Save intermediate processing steps
+- Include data validation and quality checks
+- Document transformations applied
+
+## Naming Convention:
+- Use descriptive names: `cleaned_dataset_v1.csv`
+- Include processing date: `processed_2024-01-15.parquet`
+- Version your datasets: `features_v2.pkl`

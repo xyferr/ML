@@ -1,0 +1,14 @@
+# External Data
+
+This directory contains external datasets and reference files.
+
+## Guidelines:
+- Store downloaded datasets from public sources
+- Include dataset documentation and licenses
+- Maintain original file formats when possible
+
+## Common Sources:
+- Kaggle datasets
+- UCI ML Repository
+- Government open data
+- Academic datasets

@@ -1,0 +1,110 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+ml_env/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Data files (add specific patterns as needed)
+*.csv
+*.tsv
+*.parquet
+*.h5
+*.hdf5
+*.pickle
+*.pkl
+data/raw/*
+!data/raw/.gitkeep
+data/external/*
+!data/external/.gitkeep
+
+# Model files
+*.joblib
+*.pkl
+*.h5
+*.pb
+*.pth
+*.onnx
+models/*.pkl
+models/*.joblib
+models/*.h5
+
+# Large files
+*.zip
+*.tar.gz
+*.rar
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# MLflow
+mlruns/
+mlartifacts/
+
+# Weights & Biases
+wandb/
+
+# TensorBoard
+logs/
+tensorboard_logs/
+
+# Environment variables
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Experiment outputs
+experiments/outputs/
+experiments/logs/
+
+# Report outputs (optional - you might want to track some)
+reports/*.pdf
+reports/*.html
+
+# Cache
+.cache/
+.pytest_cache/
