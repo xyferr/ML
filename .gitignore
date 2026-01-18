@@ -108,3 +108,7 @@ reports/*.html
 # Cache
 .cache/
 .pytest_cache/
+aero/
+models/
+notebooks/adobe_hackathon/
+notebooks/output/
